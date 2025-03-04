@@ -1,4 +1,4 @@
-# Karen-Virtual-Assistant
+# Python Based Virtual Assistant
 
 This is a virtual assistant made with the help of python language and it comes with attractive dynamic UI which also shows current date and time.
 It can carry out the following tasks on our voice commands:
